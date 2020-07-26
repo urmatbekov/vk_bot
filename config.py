@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 import database
 
-TOKEN = '1362792593:AAEw5PleuZLEGxEbvdAqSE9ulaw7EfYUiM4'
+TOKEN = 'your-token'
 
 
 def update_table():
